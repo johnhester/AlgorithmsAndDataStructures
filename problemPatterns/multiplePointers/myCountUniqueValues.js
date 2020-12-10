@@ -4,7 +4,7 @@
 
 const countUniqueValues = (arr) => {
     // two pointers
-    let unique = 0;
+    let unique = 0; 
     let scout = 1;
 
     // create two pointers, iterate

@@ -13,7 +13,7 @@ const sumZero_naive = (arr) => {
             }
         }
     }
-}
+} 
 
 const sumZero_refactored = (arr) => {
     let left = 0;
