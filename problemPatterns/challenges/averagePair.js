@@ -10,7 +10,7 @@ const averagePair = (arr, avg) => {
 
     let pointer = 0;
 
-    
+    //iterate through array
 
     return true;
 }
